@@ -13,10 +13,10 @@ style = "github-dark"
   info = "GNU/Linux Enthusiast"
   description = "Vilez's personal website"
   keywords = "blog,developer,personal"
-  avatarurl = "images/avatar.png"
-  faviconSVG = "/images/favicon.png"
-  favicon_32 = "/images/favicon-32x32.png"
-  favicon_16 = "/images/favicon-16x16.png"
+  avatarurl = "/avatar.png"
+  faviconSVG = "/favicon.png"
+  favicon_32 = "/favicon-32x32.png"
+  favicon_16 = "/favicon-16x16.png"
 
   since = 2023
 
