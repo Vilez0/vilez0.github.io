@@ -1,0 +1,53 @@
+baseurl = "http://www.medip.dev"
+title = "Vilez"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Edip"
+  info = "GNU/Linux Enthusiast"
+  description = "Vilez's personal website"
+  keywords = "blog,developer,personal"
+  avatarurl = "images/avatar.png"
+  faviconSVG = "/images/favicon.png"
+  favicon_32 = "/images/favicon-32x32.png"
+  favicon_16 = "/images/favicon-16x16.png"
+
+  since = 2023
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/Vilez0/"
+[[params.social]]
+  name = "Discord"
+  icon = "fa fa-discord fa-2x"
+  weight = 2
+  url = "https://discord.gg/8ueU5PGS"
+[[params.social]]
+  name = "Mail"
+  icon = "fa fa-at fa-2x"
+  weight = 3
+  url = "mailto:medip642@gmail.com"
