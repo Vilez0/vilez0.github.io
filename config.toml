@@ -45,9 +45,9 @@ style = "github-dark"
   name = "Discord"
   icon = "fa fa-discord fa-2x"
   weight = 2
-  url = "https://discord.gg/8ueU5PGS"
+  url = "https://discord.gg/bnYfyBjQNS"
 [[params.social]]
   name = "Mail"
   icon = "fa fa-at fa-2x"
   weight = 3
-  url = "mailto:medip642@gmail.com"
+  url = "mailto:edip@medip.dev"
